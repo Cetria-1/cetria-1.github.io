@@ -28,7 +28,7 @@ author:
   pronouns         : "she/her"  
   bio              : "A student at Washington State University."
   location         : "Washington State"
-  employer         : ""
+  employer         : # employer
   uri              : # URL
   email            : "none@example.org" 
 
